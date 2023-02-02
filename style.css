@@ -1,0 +1,108 @@
+
+
+.row{
+	width: 65%;
+
+	   background-image: linear-gradient(to right,#DA74D9 , #F1A088);
+	   	font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+.SIGN_IN{
+	max-width: 800px;
+	margin: 50px auto;
+	position: relative;
+	padding: 30px;
+	    
+}
+.heading8{
+	 border-left: 1px solid white;
+}
+.contact-form .form-field{
+	position: relative;
+	margin: 25px 0;
+}
+.contact-form .input-text{
+
+	width: 214px;
+	height: 30px;
+
+	font-size: 10px;
+	
+	border: none;
+    border-bottom: 1px solid white;
+    
+    color: white;
+    background: transparent;
+
+}
+.contact-form .input-text:focus + .label,
+.contact-form .input-text.not-empty + .label{
+	transform: translateY(-24px);
+}
+.contact-form .input-text:focus{
+	outline: none;
+}
+.contact-form .label{
+	position: absolute;
+	left: 15px;
+	bottom: 9px;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: 400;
+	color: red;
+	cursor: text;
+	text-transform: lowercase;
+}
+  .contact-form .sign_in-btn{
+  	
+  	 border-radius: 3px 3px 3px 3px;
+  	background: tan;  	font-size: 11px;
+  	padding: 8px 16px;
+  	border: none;
+  	width: 218px;
+  }
+  .para{
+      padding-left: 33px;
+    }
+.para1{
+        padding-left: 71px;
+      }
+     .para2{
+     	color: white;
+     	font-size: 13px;
+     }
+   
+     .sign_out-btn{
+     	color: black;
+     	background: white;
+     	border: none;
+     }
+     .head{
+     	    padding: 0px;
+     	        padding-right: 82px;
+     }
+     .head3{
+     	width: 114px;
+    height: 40px;
+    font-size: 13px;
+     }
+     .para7{
+     	font-size: 15px;
+     }
+     .paragraph{
+     	position: absolute;
+    left: 12px;
+    bottom: 8px;
+     }
+     input::placeholder{
+     	color: white;
+     }
+     .twitter{
+     	margin-left: 20px;
+     }
+     .paragraph-1{
+     	left: 37px;
+     }
